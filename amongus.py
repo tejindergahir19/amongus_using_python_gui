@@ -1,8 +1,8 @@
 import turtle
 
-BODY_COLOR =  'red'
+BODY_COLOR =  'red' # to change color of character
 BODY_SHADOW = ''
-GLASS_COLOR = '#9acedc'
+GLASS_COLOR = '#9acedc' # to change color of glasses
 GLASS_SHADOW = ''
 
 s = turtle.getscreen()
